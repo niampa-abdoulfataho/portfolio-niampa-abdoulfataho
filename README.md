@@ -46,7 +46,7 @@ Ce dépôt contient plusieurs mini-projets classés par thème :
 ## 🌐 Me contacter
 
 📩 **Email** : [niampaabdoulfataho565@gmail.com]  
-💼 **LinkedIn** : [www.linkedin.com/in/abdoul-fataho-niampa]
+💼 **LinkedIn** : [www.linkedin.com/in/abdoul-fataho-niampa]  
 💻 **GitHub** : [https://github.com/niampa-abdoulfataho]
 ---
 
