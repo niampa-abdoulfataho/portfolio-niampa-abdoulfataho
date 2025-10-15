@@ -6,7 +6,7 @@ Ce dépôt rassemble mes **mini-projets pratiques** réalisés dans le cadre de 
 
 ---
 
-## 🇫🇷 À propos de moi
+## À propos de moi
 
 🎯 Passionné par l’analyse de données, la modélisation statistique et l’application des outils numériques pour la prise de décision.  
 Je m’intéresse particulièrement à :
