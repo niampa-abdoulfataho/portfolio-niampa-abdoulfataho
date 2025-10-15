@@ -22,21 +22,6 @@ Développer des solutions innovantes basées sur la donnée et contribuer à des
 
 ---
 
-## 🇬🇧 About Me
-
-🎯 Passionate about **data analysis, statistical modeling**, and using technology for **data-driven decision-making**.  
-My main interests include:
-- **Exploratory Data Analysis (EDA)** and data visualization,  
-- **Statistical and econometric modeling**,  
-- **Machine Learning and automation tools** for applied research.
-
-💡 My goal:  
-To leverage data science and analytics to create practical and impactful solutions in research, development, and innovation.
-
-📚 Currently learning and working with:  
-`Python`, `R`, `Excel`, `Power BI`, `SQL`, `SPSS`, `Stata`, `KoboCollect`, `SurveyCTO`, `Survey Solutions`, `CsPro`, `Google Forms`.
-
----
 
 ## 🗂️ Structure du dépôt / Repository Structure
 
@@ -45,7 +30,7 @@ Ce dépôt contient plusieurs mini-projets classés par thème :
 
 ---
 
-## 📈 Exemples de projets / Project Examples
+## 📈 Exemples de projets 
 
 
 ---
@@ -58,7 +43,7 @@ Ce dépôt contient plusieurs mini-projets classés par thème :
 
 ---
 
-## 🌐 Me contacter / Contact
+## 🌐 Me contacter
 
 📩 **Email** : [niampaabdoulfataho565@gmail.com]  
 💼 **LinkedIn** : [www.linkedin.com/in/abdoul-fataho-niampa]
@@ -66,5 +51,5 @@ Ce dépôt contient plusieurs mini-projets classés par thème :
 ---
 
 ✨ *Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets, à me donner un feedback ou à collaborer sur des sujets liés à la data.*  
-*Thank you for visiting my portfolio! Feel free to explore, fork, or contact me for collaboration.*
+
 
