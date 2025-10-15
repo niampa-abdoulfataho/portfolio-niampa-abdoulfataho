@@ -42,23 +42,11 @@ To leverage data science and analytics to create practical and impactful solutio
 
 Ce dépôt contient plusieurs mini-projets classés par thème :
 
-| Dossier | Description |
-|----------|-------------|
-| `analyse_statistique/` | Analyses descriptives et inférentielles (Python / R) |
-| `visualisation/` | Visualisations interactives et rapports Power BI |
-| `machine_learning/` | Projets d’introduction au Machine Learning |
-| `collecte_donnees/` | Exemples de formulaires et nettoyage de données d’enquête |
-| `mini_projets/` | Divers projets personnels d’exploration de données |
 
 ---
 
 ## 📈 Exemples de projets / Project Examples
 
-- **Analyse statistique de données d’éducation** (R & Excel)  
-- **Visualisation Power BI des indicateurs sociodémographiques**  
-- **Modélisation de la probabilité d’emploi des jeunes (Logit/Probit)**  
-- **Prédiction du revenu des ménages avec Python (scikit-learn)**  
-- **Formulaire de collecte ODK pour données communautaires**
 
 ---
 
@@ -66,16 +54,15 @@ Ce dépôt contient plusieurs mini-projets classés par thème :
 
 - Illustrer mes **compétences techniques et analytiques**  
 - Partager mes **résultats d’apprentissage** et mes **expériences pratiques**  
-- Créer une **base de projets évolutive** visible sur LinkedIn et dans mes candidatures
+- Créer une **base de projets évolutive** 
 
 ---
 
 ## 🌐 Me contacter / Contact
 
-📩 **Email** : [ton.email.professionnel@gmail.com]  
-💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-💻 **GitHub** : [github.com/ton-nom-utilisateur](https://github.com/ton-nom-utilisateur)
-
+📩 **Email** : [niampaabdoulfataho565@gmail.com]  
+💼 **LinkedIn** : [www.linkedin.com/in/abdoul-fataho-niampa]
+💻 **GitHub** : [https://github.com/niampa-abdoulfataho]
 ---
 
 ✨ *Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets, à me donner un feedback ou à collaborer sur des sujets liés à la data.*  
