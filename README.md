@@ -1,55 +1,121 @@
-# 🎓 Portfolio de projets en Data Science et Statistique | Data Science & Statistics Portfolio
-
-👋 Bonjour et bienvenue sur mon GitHub !  
-Je m'appelle **Abdoul Fataho NIAMPA**, étudiant en **Licence 3 d’Analyse Statistique (option Informatique Décisionnelle)**.  
-Ce dépôt rassemble mes **mini-projets pratiques** réalisés dans le cadre de ma formation et de mon apprentissage personnel en **Data Science, Statistique et Intelligence Artificielle**.
-
----
-
-## À propos de moi
-
-🎯 Passionné par l’analyse de données, la modélisation statistique et l’application des outils numériques pour la prise de décision.  
-Je m’intéresse particulièrement à :
-- l’**analyse exploratoire et descriptive des données**,  
-- la **modélisation statistique** (régression, séries temporelles, etc.),  
-- la **science des données** (machine learning, visualisation, automatisation).  
-
-💡 Mon objectif :  
-Développer des solutions innovantes basées sur la donnée et contribuer à des projets ayant un impact concret dans les domaines du développement, de la recherche et de la technologie.
-
-📚 En cours d’apprentissage :
-`Python`, `R`, `Excel`, `Power BI`, `SQL`, `SPSS`, `Stata`, et des outils de collecte de données comme `KoboCollect`, `SurveyCTO`, `Survey Solutions`, `CsPro`, `Google Forms`.
-
----
+🎓 Portfolio de projets en Data Science et Statistique
 
 
-## 🗂️ Structure du dépôt / Repository Structure
+👋 Bienvenue sur mon GitHub !
 
-Ce dépôt contient plusieurs mini-projets classés par thème :
+Je m'appelle Abdoul Fataho NIAMPA, étudiant en Licence 3 d’Analyse Statistique (option Informatique Décisionnelle).
+Ce dépôt constitue mon portfolio académique et professionnel, regroupant mes projets pratiques, certifications et expériences d’apprentissage en Data Science, Statistique et Analyse de données.
 
 
 ---
 
-## 📈 Exemples de projets 
+👤 À propos de moi
+
+🎯 Passionné par l’analyse de données et la modélisation statistique, je m’intéresse à l’utilisation des méthodes quantitatives et des outils numériques pour appuyer la prise de décision basée sur les données.
+
+Mes principaux centres d’intérêt incluent :
+
+🔹l’analyse exploratoire et descriptive des données,
+
+🔹la modélisation statistique (régression, séries temporelles, etc.),
+
+🔹la science des données (machine learning, visualisation, automatisation)?
+
+🔹l'intelligence artificielle
+
+
+💡 Objectif professionnel
+Développer des solutions analytiques fiables et innovantes, et contribuer à des projets à fort impact dans les domaines du développement, de la recherche et de la technologie.
 
 
 ---
 
-## 🧠 Objectifs du portfolio
+🧰 Compétences & outils
 
-- Illustrer mes **compétences techniques et analytiques**  
-- Partager mes **résultats d’apprentissage** et mes **expériences pratiques**  
-- Créer une **base de projets évolutive** 
+🔹 Langages & programmation: Python, R, VBA
+
+🔹 Analyse & visualisation: Excel, Power BI, Python, R, 
+
+🔹 Statistique & économétrie: SPSS, Stata, R, Python
+
+🔹 Collecte et gestion des données: KoboCollect, SurveyCTO, Survey Solutions, CSPro, Google Forms
+
+🔹Machine Learning & Deep Learning: Python
 
 ---
 
-## 🌐 Me contacter
+🎓 Certifications
 
-📩 **Email** : [niampaabdoulfataho565@gmail.com]  
-💼 **LinkedIn** : [www.linkedin.com/in/abdoul-fataho-niampa]  
-💻 **GitHub** : [https://github.com/niampa-abdoulfataho]
+Ce portfolio intègre une démarche d’apprentissage continu.
+Les certifications obtenues au fil de mon parcours sont regroupées dans un espace dédié, régulièrement mis à jour.
+
+📂 Accéder à la liste complète des certifications :
+👉 ./certifications
+
+Chaque certification est accompagnée :
+
+- d’un lien officiel vérifiable (Coursera, edX, etc.)
+
+- d’une description des compétences acquises et, lorsque possible, d’une application concrète dans un projet du portfolio
+
 ---
 
-✨ *Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets, à me donner un feedback ou à collaborer sur des sujets liés à la data.*  
+🗂️ Structure du portfolio
+
+portfolio/
+├── certifications/
+│   ├── README.md
+│   ├── coursera/
+│   ├── OpenClassroom/
+│   └── Campus AFD/
+├── projects/
+│   ├── /
+├── README.md
 
 
+---
+
+📈 Projets
+
+Les projets présentés dans ce dépôt couvrent différents domaines de la statistique et de la data science.
+
+Chaque projet contient :
+
+- un objectif clair
+
+- une description des données utilisées
+
+- les méthodes statistiques ou algorithmiques appliquées
+
+- les résultats et interprétations
+
+
+📌 Les projets sont organisés par thématique dans le dossier projects/.
+
+
+---
+
+🧠 Objectifs de ce portfolio
+
+🔹Mettre en valeur mes compétences techniques et analytiques
+
+🔹Documenter mes apprentissages académiques et personnels
+
+🔹Illustrer le lien entre théorie, certification et pratique
+
+🔹Construire une base de projets évolutive et professionnelle
+
+
+
+---
+
+🌐 Me contacter
+
+📩 Email : niampaabdoulfataho565@gmail.com
+💼 LinkedIn : https://www.linkedin.com/in/abdoul-fataho-niampa
+💻 GitHub : https://github.com/niampa-abdoulfataho
+
+
+---
+
+✨ Merci de visiter mon portfolio. N’hésitez pas à explorer les projets, à partager vos retours ou à me contacter pour toute collaboration liée à la data et à la statistique.
