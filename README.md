@@ -63,13 +63,21 @@ Chaque certification est accompagnée :
 🗂️ Structure du portfolio
 
 portfolio/
+
 ├── certifications/
+
 │   ├── README.md
+
 │   ├── coursera/
+
 │   ├── OpenClassroom/
+
 │   └── Campus AFD/
+
 ├── projects/
+
 │   ├── /
+
 ├── README.md
 
 
@@ -112,7 +120,9 @@ Chaque projet contient :
 🌐 Me contacter
 
 📩 Email : niampaabdoulfataho565@gmail.com
+
 💼 LinkedIn : https://www.linkedin.com/in/abdoul-fataho-niampa
+
 💻 GitHub : https://github.com/niampa-abdoulfataho
 
 
