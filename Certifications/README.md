@@ -1,9 +1,5 @@
-🎓 Certifications
+# Certifications
 
-Ce dossier regroupe l’ensemble des certifications obtenues progressivement dans le cadre de mon apprentissage continu en statistique, data science et analyse de données.
+Ce dossier regroupe les preuves de certification disponibles pour les formations listées dans le [README principal](../README.md#certifications).
 
-L’objectif est de conserver une trace structurée, vérifiable et évolutive de mes formations complémentaires, en lien direct avec les projets présentés dans le portfolio principal.
-
----
-
-✨ Ce dossier est mis à jour régulièrement au fil de mon parcours de formation et reflète une démarche d’apprentissage continu.
+Seule l'attestation Campus AFD est disponible en pièce jointe pour le moment. Les certificats Coursera seront ajoutés ici lorsque les liens de vérification seront disponibles.
