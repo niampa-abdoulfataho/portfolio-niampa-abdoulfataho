@@ -93,11 +93,12 @@ L'ensemble des dépôts est consultable sur [github.com/niampa-abdoulfataho?tab=
 
 ## Certifications
 
-| Formation | Organisme | Date |
-|---|---|---|
-| [Conception et mise en place d'un dispositif de suivi-évaluation](Certifications/Campus%20AFD/) | Campus Groupe AFD | Octobre 2025 |
-| Big Data Technologies and Applications | Coursera | Décembre 2025 |
-| Introduction to NLP | Coursera | Janvier 2026 |
+| Formation | Type | Organisme | Date |
+|---|---|---|---|
+| [Conception et mise en place d'un dispositif de suivi-évaluation](Certifications/Campus%20AFD/) | Formation | Campus Groupe AFD | Octobre 2025 |
+| [Big Data Technologies and Applications](Certifications/Coursera/Big%20Data%20Technologies%20and%20Applications.pdf) | Cours | Coursera | Décembre 2025 |
+| [ChatGPT Playground for Beginners: Intro to NLP AI](Certifications/Coursera/ChatGPT%20Playground%20for%20Beginners%20-%20Intro%20to%20NLP%20AI.pdf) | Projet guidé | Coursera | Janvier 2026 |
+| [Prompt Engineering Generative AI for Marketing & Advertising](Certifications/Coursera/Prompt%20Engineering%20Generative%20AI%20for%20Marketing%20and%20Advertising.pdf) | Projet guidé | Coursera | Décembre 2025 |
 
 ## Formation
 
