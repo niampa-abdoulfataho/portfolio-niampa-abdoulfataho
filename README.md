@@ -81,6 +81,8 @@ L'ensemble des dépôts est consultable sur [github.com/niampa-abdoulfataho?tab=
 
 **Programmation** : Python, R, Stata, VBA (Access, Excel)
 
+**Développement web** : HTML, CSS, JavaScript, Django
+
 **Bases de données (SQL & NoSQL)** : PostgreSQL, SQL Server, MariaDB, SQLite, Access, MongoDB, Redis, Apache Cassandra, Neo4j
 
 **Collecte de données** : KoboToolbox, CsPro, SurveyCTO, SurveySolutions, ODK, Google Forms
